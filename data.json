@@ -1,0 +1,46 @@
+{
+    "items": [
+      {
+        "title" : "2048",
+        "type": "puzzle",
+        "image": "/img/game/2048.jpg",
+        "link" : "/game/2048/index.html"
+      },{
+        "title" : "dino game",
+        "type": "arcade",
+        "image": "/img/game/dinogame.jpg",
+        "link" : "/game/dinogame/index.html"
+      },{
+        "title" : "지뢰 찾기",
+        "type": "puzzle",
+        "image": "/img/game/mine.png",
+        "link" : "/game/mine/index.html"
+      },{
+        "title" : "사과 먹는 뱀",
+        "type": "arcade",
+        "image": "/img/game/snake.png",
+        "link" : "/game/snake/snake.html"
+      },{
+        "title" : "테트리스",
+        "type": "puzzle",
+        "image": "/img/game/tetris.jpg",
+        "link" : "/game/tetris/index.html"
+      },{
+        "title" : "1010!",
+        "type": "puzzle",
+        "image": "/img/game/1010.png",
+        "link" : "#"
+      },{
+        "title" : "부루마블",
+        "type": "arcade",
+        "image": "/img/game/buru.png",
+        "link" : "#"
+      },{
+        "title" : "고군분투",
+        "type": "arcade",
+        "image": "/img/game/gogun.png",
+        "link" : "#"
+      }
+    ]
+  }
+  
